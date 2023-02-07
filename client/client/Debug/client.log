@@ -1,0 +1,4 @@
+﻿  main.cpp
+Z:\client\client\main.cpp(46,10): warning C4101: buff: неиспользованная локальная переменная
+Z:\client\client\main.cpp(26): warning C4715: clientReceive: значение возвращается не при всех путях выполнения
+  client.vcxproj -> Z:\client\Debug\client.exe
